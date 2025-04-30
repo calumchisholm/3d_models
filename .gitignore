@@ -1,2 +1,5 @@
 # Slicer project files
 *.3mf
+
+# Generated GCode - printer-specific
+*.gcode
