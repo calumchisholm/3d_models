@@ -11,7 +11,7 @@ These models attempt to reproduce some of the original parts in a form suitable 
 
 To follow -
 
-- squeezebox-radio-power-eth-plate.scad - A replacement for the rear ethernet/power/headphone plate.
+- `squeezebox-radio-power-eth-plate.scad` - A replacement for the rear ethernet/power/headphone plate.
 
 These models should work in both the *release* and *development-snapshot* versions of OpenSCAD. A recent snapshot is recommended however, as no formal release has been tagged since January 2021.
 
@@ -24,6 +24,7 @@ Setting the following parameters allows for the addition of ridges of configurab
 - `ridge_radius` - the radius of each individual ridge cutout.
 - `overlap_factor` - how far the cutout should extend (effectively the ridge depth).
 
+- `key_offset_x` - adjustment to ensure a positive engagement between the model's 'key' and the shaft of the rotary encoder.
 
 ## 3D Printing
 

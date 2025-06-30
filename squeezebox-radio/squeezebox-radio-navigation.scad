@@ -27,7 +27,7 @@ connector_thickness = 2.5;
 connector_radius_outer = connector_radius_inner + connector_thickness;
 key_offset_x = 1.35;
 
-// === Cross-braces (cuboids) crossing inner cavity wall but not outer cone wall ===
+/* [Cross-braces] */ // Cuboids crossing inner cavity wall but not outer cone wall
 brace_count = 5;
 brace_width = 2.5;
 brace_height = connector_height;
