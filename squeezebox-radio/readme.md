@@ -6,12 +6,9 @@ These models attempt to reproduce some of the original parts in a form suitable 
 
 ## Models
 
-- `squeezebox-radio-navigation.scad` - A replacement for the main navigation jog/click wheel.
-- `squeezebox-radio-volume.scad` - A replacement for the smaller volume/mute knob.
-
-To follow -
-
-- `squeezebox-radio-power-eth-plate.scad` - A replacement for the rear ethernet/power/headphone plate.
+- `navigation-knob.scad` - A replacement for the main navigation jog/click wheel.
+- `volume-knob.scad` - A replacement for the smaller volume/mute knob.
+- `power-eth-plate.scad` - A replacement for the rear ethernet/power/headphone plate.
 
 These models should work in both the *release* and *development-snapshot* versions of OpenSCAD. A recent snapshot is recommended however, as no formal release has been tagged since January 2021.
 
