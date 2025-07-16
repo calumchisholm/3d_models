@@ -4,11 +4,12 @@ The [Logitech Squeezebox Radio](https://lyrion.org/players-and-controllers/squee
 
 These models attempt to reproduce some of the original parts in a form suitable for 3d printing.
 
+
 ## Models
 
 - `navigation-knob.scad` - A replacement for the main navigation jog/click wheel.
 - `volume-knob.scad` - A replacement for the smaller volume/mute knob.
-- `power-eth-plate.scad` - A replacement for the rear ethernet/power/headphone plate.
+- `power-eth-plate.scad` - A replacement for the rear power/ethernet/headphone plate.
 
 These models should work in both the *release* and *development-snapshot* versions of OpenSCAD. A recent snapshot is recommended however, as no formal release has been tagged since January 2021.
 
@@ -22,6 +23,7 @@ Setting the following parameters allows for the addition of ridges of configurab
 - `overlap_factor` - how far the cutout should extend (effectively the ridge depth).
 
 - `key_offset_x` - adjustment to ensure a positive engagement between the model's 'key' and the shaft of the rotary encoder.
+
 
 ## 3D Printing
 
